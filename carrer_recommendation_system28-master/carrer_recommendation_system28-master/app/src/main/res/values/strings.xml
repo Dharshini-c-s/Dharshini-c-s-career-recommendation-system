@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Career Recommendation System</string>
+    <string-array name="questions">
+        <item>Which subjects do you find most intriguing and enjoyable in school?\na) Science\nb) Mathematics\nc) Arts/Humanities\nd) Social Sciences</item>
+        <item>What type of activities do you find most engaging during your free time?\na) Conducting experiments or scientific projects\nb) Solving puzzles or mathematical challenges\nc) Creating art, writing, or playing music\nd) Engaging in social activities or discussions</item>
+        <item>If you could choose a job based on these environments, which would you prefer?\na) Laboratories or research centers\nb) Offices with analytical tasks\nc) Creative studios or performance spaces\nd) Collaborative team environments</item>
+        <item>What kinds of books or movies do you enjoy the most?\na) Science fiction or documentaries\nb) Thrillers or mysteries\nc) Dramas or artistic films\nd) Inspirational or motivational stories</item>
+        <item>Which extracurricular activities interest you the most?\na) Science or robotics clubs\nb) Math competitions or chess clubs\nc) Art, drama, or music clubs\nd) Debate, leadership, or community service clubs</item>
+        <item>What skills do you feel most confident in or enjoy developing?\na) Analytical and problem-solving skills\nb) Logical and mathematical reasoning\nc) Creativity and artistic expression\nd) Communication and interpersonal skills</item>
+        <item>If you could attend a workshop or seminar, which topic would you choose?\na) Advanced scientific research techniques\nb) Cutting-edge technology and innovation\nc) Creative writing or artistic expression\nd) Effective communication and leadership skills</item>
+        <item>Which careers or professions do you find intriguing or admire?\na) Doctor or scientist\nb) Engineer or mathematician\nc) Artist or writer\nd) Social worker or communicator</item>
+        <item>What type of projects do you enjoy working on the most?\na) Scientific experiments or research projects\nb) Mathematical problem-solving or coding projects\nc) Artistic creations or writing projects\nd) Collaborative projects that involve teamwork</item>
+        <item>If you could make a positive impact on the world, what aspect would you focus on?\na) Advancing scientific knowledge and healthcare\nb) Solving complex problems and technological advancements\nc) Inspiring others through creativity and expression\nd) Improving society and fostering positive relationships</item>
+    </string-array>
+</resources>
